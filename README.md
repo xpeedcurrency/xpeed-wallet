@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/albertphil/xpeed-wallet-flutter/blob/topublic/images/xpeed_layout.png?raw=true" alt="Logo" width='500px' height='auto'/>
+    <img src="/xpeedcurrency/xpeed-wallet/raw/master/images/xpeed_layout.png" alt="Logo" width='500px' height='auto'/>
 </div>
 
 
