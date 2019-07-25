@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/xpeedcurrency/xpeed-wallet/raw/master/images/xpeed_layout.png" alt="Logo" width='500px' height='auto'/>
+    <img src="https://raw.githubusercontent.com/xpeedcurrency/xpeed-wallet/master/images/xpeed_layout.png" alt="Logo" width='500px' height='auto'/>
 </div>
 
 
